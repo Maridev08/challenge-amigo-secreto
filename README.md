@@ -12,10 +12,10 @@ Sorteador de Amigos
 Este projeto educacional tem como objetivo fortalecer os conhecimentos em lógica de programação através da criação de um sorteador de amigos. O programa permite inserir nomes de amigos em um lista e sortear um nome aleatoriamente.
 
 ## Funcionalidades 
-. Inserir um nome de um amigo em um campo de texto.
-.Adicionar o nome à lista de amigos.
-.Sortear um nome aleatoriamente da lista.
-.Exibir o nome sorteado na tela.
+ 1.Inserir um nome de um amigo em um campo de texto.
+ 2.Adicionar o nome à lista de amigos.
+3.Sortear um nome aleatoriamente da lista.
+4.Exibir o nome sorteado na tela.
 
 ## Tecnologias utilizadas 
 <!-- Badge de HTML -->
